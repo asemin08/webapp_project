@@ -1,0 +1,3 @@
+---
+# Install a role for ansible_odoo 
+- src: asemin08.webapp_static_role

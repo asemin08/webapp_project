@@ -1,0 +1,6 @@
+---
+- hosts: prod
+  roles:
+    - asemin08.webapp_static_role
+    
+    
